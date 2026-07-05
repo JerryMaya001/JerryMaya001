@@ -27,6 +27,8 @@ I use this space to document my learning journey and share projects across:
 - **excel-projects** – Excel analysis, reporting, dashboards, and practice work
 - **powerbi-projects** – Power BI dashboards and analytics projects
 - **hr-analytics-projects** – HR, payroll, compensation, incentives, and people analytics projects
+- **sql-projects** – SQL practice queries, business reporting, data cleaning, transformations, and analytics case studies
+- **portfolio-projects** – End-to-end data analytics portfolio projects across Excel, SQL, Power BI, and HR/business analytics
 
 ## Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/jeremiah-jacob-12b647220/
