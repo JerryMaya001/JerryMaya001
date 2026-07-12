@@ -1,7 +1,6 @@
 # Hi, I’m Jeremiah Jacob 👋
 
 I’m a **Compensation & Benefits Analyst** with a background in **HR operations, payroll, incentives, HMO administration, customer experience, sales, and investment advisory**. I’m currently building deeper expertise in **Data Analytics** using **Excel, SQL, Power BI, and Python**.
-
 ## What I’m building
 I use this space to document my learning journey and share projects across:
 - **Excel data analysis**
